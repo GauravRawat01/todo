@@ -1,0 +1,39 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Basic React TODO application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravRawat01/todo.git"
+  },
+  "author": "GauravRawat01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravRawat01/todo/issues"
+  },
+  "homepage": "https://github.com/GauravRawat01/todo#readme",
+  "devDependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
