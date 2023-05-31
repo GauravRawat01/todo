@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/GauravRawat01/todo/issues"
   },
-  "homepage": "https://github.com/GauravRawat01/todo#readme",
+  "homepage": "https://github.com/GauravRawat01/todo/",
   "devDependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
